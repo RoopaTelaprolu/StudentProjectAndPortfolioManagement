@@ -6,32 +6,32 @@ Portfolyx is a web-based application built using Spring Boot, MySQL, and JSP to 
 
 **Admin:**
 
-Add and manage faculty and student accounts.
+- Add and manage faculty and student accounts.
 
-Approve or reject access requests.
+- Approve or reject access requests.
 
-View all registered users and their roles.
+- View all registered users and their roles.
 
 **Student:**
 
-Upload and update project and portfolio information.
+- Upload and update project and portfolio information.
 
-Select a faculty mentor.
+- Select a faculty mentor.
 
-Track project progress through milestone updates.
+- Track project progress through milestone updates.
 
 **Faculty:**
 
-View assigned students’ projects and portfolios.
+- View assigned students’ projects and portfolios.
 
-Provide feedback and monitor student progress.
+- Provide feedback and monitor student progress.
 
 **🛠️ Tech Stack**
-Backend: Spring Boot (Java)
+**Backend:** Spring Boot (Java)
 
-Frontend: JSP
+**Frontend:** JSP
 
-Database: MySQL
+**Database:** MySQL
 
 **🎯 Objective**
 The main goal of Portfolyx is to provide an organized platform for managing student project lifecycles and portfolios, enhancing transparency and mentorship throughout the academic journey.
