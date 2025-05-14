@@ -1,7 +1,40 @@
-**Portfolyx** is basically **Student Project and Portfolio Management System** where we have developed it using **Springboot** with **MySQL** database connectivity which also includes the front-end technologies **JSP**. The main aim of the project is to manage students projects and portfolios. There are three roles in our project the Admin, the Faculty and the Student. The Admin can add the faculty and student and can accept/reject the access of the faculty/student, and can be able view all the faculties and students who are given access to. The student can be able to upload/update their projects and portfolios, and select their mentor by themselves who they wish for and view their progress as milestones. The faculty can be able to view their respective student's projects, portfolios based on their ID and can give feedback to them.
+**📘 Portfolyx - Student Project and Portfolio Management System**
+Portfolyx is a web-based application built using Spring Boot, MySQL, and JSP to efficiently manage student projects and portfolios in academic environments. It streamlines collaboration among Admin, Faculty, and Students, offering structured project tracking and portfolio development features.
 
+**🚀 Key Features**
+**Role-Based Access Control:**
 
+**Admin:**
 
+Add and manage faculty and student accounts.
+
+Approve or reject access requests.
+
+View all registered users and their roles.
+
+**Student:**
+
+Upload and update project and portfolio information.
+
+Select a faculty mentor.
+
+Track project progress through milestone updates.
+
+**Faculty:**
+
+View assigned students’ projects and portfolios.
+
+Provide feedback and monitor student progress.
+
+**🛠️ Tech Stack**
+Backend: Spring Boot (Java)
+
+Frontend: JSP
+
+Database: MySQL
+
+**🎯 Objective**
+The main goal of Portfolyx is to provide an organized platform for managing student project lifecycles and portfolios, enhancing transparency and mentorship throughout the academic journey.
 
 
 https://github.com/user-attachments/assets/882cac7b-cae5-4a0e-900c-e527206800f7
