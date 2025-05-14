@@ -27,11 +27,12 @@ Portfolyx is a web-based application built using Spring Boot, MySQL, and JSP to 
 - Provide feedback and monitor student progress.
 
 **🛠️ Tech Stack**
-**Backend:** Spring Boot (Java)
 
-**Frontend:** JSP
+- **Backend:** Spring Boot (Java)
 
-**Database:** MySQL
+- **Frontend:** JSP
+
+- **Database:** MySQL
 
 **🎯 Objective**
 The main goal of Portfolyx is to provide an organized platform for managing student project lifecycles and portfolios, enhancing transparency and mentorship throughout the academic journey.
